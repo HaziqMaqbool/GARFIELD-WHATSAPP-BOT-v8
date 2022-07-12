@@ -23,9 +23,9 @@ global.notice = ` *Hi 🥰 I m*
 *Not more..*
 *Also I am Student*
  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+7 950 012-47-90'] //👈  Enter Your number
-global.premium =  ['+7 950 012-47-90'] //👈  Enter Your number
-global.ownernomer = '+7 950 012-47-90' //👈  Enter Your number
+global.owner =  ['+923114204198'] //👈  Enter Your number
+global.premium =  ['+923114204198'] //👈  Enter Your number
+global.ownernomer = '+923114204198' //👈  Enter Your number
 global.ownername = 'H A Z I Q' //👈 Enter Your name
 global.botname = 'H A Z I X ＢＯＴ ｖ8.3' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 H A Z I Q 𝖡𝗈𝗍' //👈 Enter Your Name
@@ -33,7 +33,7 @@ global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 H A Z I Q 𝖡𝗈𝗍
 global.region = 'Pakistan,Punjab,Kasur ' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
 global.myweb = 'https://www.facebook.com/garfieldbots/' // 👈 Enter your Social media link to follow now button
-global.packname = '❤H A Z I Q❤ (+7 950 012-47-90)
+global.packname = '❤H A Z I Q❤ (+923114204198)
 // 👈 You Can change this your choice 
 global.author = 'HAZIQ DEVELOPMENT' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
